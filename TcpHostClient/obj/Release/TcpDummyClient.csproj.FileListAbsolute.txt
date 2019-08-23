@@ -1,0 +1,13 @@
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\Bin\Release\NLog.config
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\Bin\Release\TcpDummyClient.exe.config
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\Bin\Release\TcpDummyClient.exe
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\Bin\Release\TcpDummyClient.pdb
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.csprojAssemblyReference.cache
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.MainForm.resources
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.Properties.Resources.resources
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.csproj.GenerateResource.cache
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.csproj.CoreCompileInputs.cache
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.csproj.CopyComplete
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.exe
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.pdb
+E:\Work\DotNetCore\CSharpTcpNetworkDummy\trunk\TcpHostClient\obj\Release\TcpDummyClient.exe.config
